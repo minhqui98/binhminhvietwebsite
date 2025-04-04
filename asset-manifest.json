@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/binhminhvietcap/static/css/main.6ee565d2.css",
+    "main.js": "/binhminhvietcap/static/js/main.0451132c.js",
+    "static/js/496.b741664b.chunk.js": "/binhminhvietcap/static/js/496.b741664b.chunk.js",
+    "static/media/bannerto.jpg": "/binhminhvietcap/static/media/bannerto.390d5b3e028e6c117628.jpg",
+    "index.html": "/binhminhvietcap/index.html",
+    "main.6ee565d2.css.map": "/binhminhvietcap/static/css/main.6ee565d2.css.map",
+    "main.0451132c.js.map": "/binhminhvietcap/static/js/main.0451132c.js.map",
+    "496.b741664b.chunk.js.map": "/binhminhvietcap/static/js/496.b741664b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ee565d2.css",
+    "static/js/main.0451132c.js"
+  ]
+}
